@@ -2,9 +2,9 @@ import requests
 import time
 import json
 #username 后面填写账号
-userName = '19990582191'
+userName = ''
 #pwva1 后面填写密码
-pwdVal = '123456'
+pwdVal = '
 
 
 def do_encrypt_rc4(src, passwd):
